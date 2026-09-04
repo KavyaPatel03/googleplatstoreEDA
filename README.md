@@ -1,4 +1,4 @@
-# googleplatstoreEDA
+# GoogleplatstoreEDA
 Exploratory Data Analysis and Data Cleaning of the Google Play Store Dataset using Pandas,Numpy and Matplotlib.
 
 Project: Exploratory Data Analysis (EDA) on Google Play Store Dataset
